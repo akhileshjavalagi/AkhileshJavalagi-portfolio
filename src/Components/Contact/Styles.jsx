@@ -33,7 +33,7 @@ export const ContContact1 = styled.div`
   border-radius: 10px;
   overflow: hidden;
 
-  display: flex;
+ display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;

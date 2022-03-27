@@ -46,7 +46,7 @@ const Projects = () => {
       project_name: "Deset Cart Clone",
       image: "/project_images/cultfit.png",
       project_desc:
-        "A web application to purchase the products which you need. Sorting and filtering functionality Coupon code application Wish list feature Features: Tech Stack: HTML | CSS | Javascript Areas of responsibility: Build using HTML, CSS, and advanced javascript. Safe and fast delivery service.",
+        "A web application to purchase the products which you need. Sorting and filtering functionality Coupon code application Wish list feature Features. Safe and fast delivery service.",
       deploy_link: "https://epic-cray-c4f186.netlify.app/",
       repo_link: "https://github.com/akhileshjavalagi/desert-cart-clone",
       tech_stack: [
@@ -71,7 +71,7 @@ const Projects = () => {
       project_name: "Fab India Clone",
       image: "/project_images/Seekho.png",
       project_desc:
-        "An e-commerce website to purchase different products online. Features: Multiple payment options Dynamic shopping cart User friendly Tech Stack: HTML | CSS | Advanced JS Areas of responsibility: Built authentication and integrated it with the frontend. Used Local storage.",
+        "An e-commerce website to purchase different products online. Features: Multiple payment options Dynamic shopping cart User friendly. Built authentication and integrated it with the frontend.",
       deploy_link: "https://nervous-mayer-9a5cb0.netlify.app/",
       repo_link: "https://github.com/akhileshjavalagi/FabIndia-",
       tech_stack: [

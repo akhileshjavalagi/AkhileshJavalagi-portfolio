@@ -14,19 +14,19 @@ const Stats = () => {
       <StatsContCont>
         <StatsCont>
           <StatsContDiv>
-            <StatsContH1>1200+</StatsContH1>
+            <StatsContH1>1050+</StatsContH1>
             <StatsContH3>Hours of coding</StatsContH3>
           </StatsContDiv>
           <StatsContDiv>
-            <StatsContH1>400+</StatsContH1>
+            <StatsContH1>45+</StatsContH1>
             <StatsContH3>Git Commits</StatsContH3>
           </StatsContDiv>
           <StatsContDiv>
-            <StatsContH1>5+</StatsContH1>
+            <StatsContH1>4+</StatsContH1>
             <StatsContH3>Projects</StatsContH3>
           </StatsContDiv>
           <LastStat>
-            <StatsContH1>100+</StatsContH1>
+            <StatsContH1>90+</StatsContH1>
             <StatsContH3>Hours of Soft Skill</StatsContH3>
           </LastStat>
         </StatsCont>
@@ -37,7 +37,7 @@ const Stats = () => {
       <br />
       <br />
       <img
-        src="https://ghchart.rshah.org/021F34/Vishal-080"
+        src="https://ghchart.rshah.org/021F34/akhileshjavalagi"
         alt="fdsdf"
         style={{ width: "80%", display: "block", margin: "auto" }}
       />
