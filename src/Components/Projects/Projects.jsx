@@ -82,6 +82,22 @@ const Projects = () => {
         <FaJs />,
       ],
     },
+    {
+      id: 4,
+      project_name: "Urban Clone",
+      image: "/project_images/Screenshot (514).png",
+      project_desc:
+        "This is the Service website, which gives the services of Home Appliances, Home paitning, Salone for Men, Salone for Women, Men's Theropies. We have the services all locations in India ",
+      deploy_link: "https://urbanclone-sanjaysharma94.vercel.app/",
+      repo_link: "https://github.com/akhileshjavalagi/Urbanclone-repo",
+      tech_stack: [
+        <SiMongodb />,
+        <FaNodeJs />,
+        <FaHtml5 />,
+        <FaCss3 />,
+        <FaJs />,
+      ],
+    },
     // {
     //   id: 3,
     //   project_name: "GROWW Clone",
